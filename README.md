@@ -7,7 +7,7 @@ Data Analyst | Product Analyst
 
 **TED Conferences**
 
-[![Open Dashboard](https://img.shields.io/badge/DataLens-Dashboard-blue?style=for-the-badge&logo=yandex)](https://datalens.yandex/rf8o3bajvrzqb?_theme=dark&tab=aW)
+[![Open Dashboard](https://img.shields.io/badge/DataLens-Dashboard-blue?style=for-the-badge&logo=yandex)](https://datalens.yandex/qe7qrgdo8xk8a?_theme=dark)
 
 **Real Estate Market**
 
